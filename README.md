@@ -1,1 +1,2 @@
 # online_pharmecy_shop
+This project only contain bangladeshi medicine .only back end is designed. one can see the detais of the selected medicine that is- barand name , generic name ,price , effectiveness of the medicine and the manufacturer name. one can also search medicine using the barand name. if one want to buy any medicine he/she can add the medicine to the shopping cart and after that he/she have to give some vaild info for payment and order delivery.[Note there is no payment getway for payment processing]
